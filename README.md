@@ -1,2 +1,3 @@
 # python-scripts
- Common python scripts for everyday use
+
+These are some common python scripts / code snippets for everyday use.
